@@ -26,3 +26,4 @@ module.exports = function () {
   }
   return array;
 }
+
