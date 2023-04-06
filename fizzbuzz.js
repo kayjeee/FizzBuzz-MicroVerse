@@ -4,7 +4,7 @@ module.exports = function () {
     if ((i+1) % 3 == 0) {
       array [i] = 'Fizz';
     }
-
+ //hey
     if ((i+1) % 5 == 0) {
       array [i] = 'Buzz';
     }
